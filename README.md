@@ -27,10 +27,10 @@ W2017 starter files for midterm
 
 &nbsp;&nbsp;&nbsp;&nbsp;c) a description
   
-4) create a database and connect the form to it (1 mark)
+4) create a database [using this example](https://github.com/rhildred/indexdbexample) and connect the form to it (1 mark)
 
 5) create a page that lists the expenses from the database (1 mark)
 
-6) create a page that graphs the expenses by category (1 mark)
+6) create a page that graphs the expenses by category [using this example](https://github.com/rhildred/ionicgraph) (1 mark)
 
 *hint `SELECT category, SUM(amount) AS expense FROM expenses GROUP BY 1`
