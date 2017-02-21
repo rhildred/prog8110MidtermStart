@@ -3,29 +3,29 @@ W2017 starter files for midterm
 
 1) change the 3 tabs to be: (.5 mark) 
 
-  a) expense list
+&nbsp;&nbsp;&nbsp;&nbsp;a) expense list
 
-  b) add expense
+&nbsp;&nbsp;&nbsp;&nbsp;b) add expense
 
-  c) categories
+&nbsp;&nbsp;&nbsp;&nbsp;c) categories
  
- 2) change the icons appropriately (.5 mark)
+2) change the icons appropriately (.5 mark)
  
- 3) create a form to add an expense with the following fields: (1 mark)
+3) create a form to add an expense with the following fields: (1 mark)
  
-  a) an amount
+&nbsp;&nbsp;&nbsp;&nbsp;a) an amount
 
-  b) a category to be selected from
+&nbsp;&nbsp;&nbsp;&nbsp;b) a category to be selected from
   
-    i) food
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i) food
   
-    ii) lodging
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii) lodging
  
-    iii) clothing and personal
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii) clothing and personal
  
-    iv) entertainment
-    
-  c) a description
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iv) entertainment
+
+&nbsp;&nbsp;&nbsp;&nbsp;c) a description
   
 4) create a database and connect the form to it (1 mark)
 
