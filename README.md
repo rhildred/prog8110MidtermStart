@@ -9,7 +9,7 @@ W2017 starter files for midterm
 
 &nbsp;&nbsp;&nbsp;&nbsp;c) categories
  
-2) change the icons appropriately (.5 mark)
+2) change the icons appropriately [using this link](http://ionicons.com/)(.5 mark)
  
 3) create a form to add an expense with the following fields: (1 mark)
  
